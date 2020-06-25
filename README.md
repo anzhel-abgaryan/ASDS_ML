@@ -1,1 +1,2 @@
-Repository for learning process of ML (HWs etc.)
+Repository for ML project
+
